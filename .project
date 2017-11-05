@@ -3,7 +3,9 @@
 	<name>hello-world</name>
 	<comment></comment>
 	<projects>
+	My Project
 	</projects>
+	
 	<buildSpec>
 		Build spec
 	</buildSpec>
